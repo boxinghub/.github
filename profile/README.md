@@ -10,7 +10,7 @@
 -->
 # BoxingHub
 
-## Hi there 👋
+[![BoxingHub on Discord](https://dcbadge.vercel.app/api/server/mqCVcUAyN9)](https://discord.gg/mqCVcUAyN9)
 
 ## Website Address: https://www.boxinghub.org | https://hongbowei.pythonanywhere.com/
 
