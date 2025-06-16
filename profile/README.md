@@ -10,13 +10,13 @@
 -->
 # BoxingHub
 
-[![BoxingHub on Discord](https://dcbadge.vercel.app/api/server/mqCVcUAyN9)](https://discord.gg/mqCVcUAyN9)
+<!--[![BoxingHub on Discord](https://dcbadge.vercel.app/api/server/mqCVcUAyN9)](https://discord.gg/mqCVcUAyN9)-->
 
-## Website Address: https://www.boxinghub.org
+## Website Address: https://boxinghub.org
 
 #### Description: **_BoxingHub_ is dedicated to spreading boxing knowledge and developing boxing culture.**
 
-#### Author: Hongbo Wei from Guiyang, China. A software engineer who loves boxing 🥊!
+#### Author: Hongbo Wei
 
 ![BoxingHub](https://github.com/boxinghub/boxinghub/blob/main/static/images/preview.png?raw=true "BoxingHub")
 
