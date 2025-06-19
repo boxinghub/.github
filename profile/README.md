@@ -10,6 +10,7 @@ Welcome to BoxingHub – your open-source corner for all things boxing. We’re 
 🌟 Mission
 
 BoxingHub exists to:
+
 	•	🧠 Educate the public on boxing techniques, theory, and history
 	•	💪 Inspire healthy, disciplined lifestyles through martial arts
 	•	🌍 Connect aspiring boxers with real-world clubs and communities
@@ -31,12 +32,14 @@ UI Toolkit	Custom CSS/JS templates with scroll effects, dynamic navbars, and dar
 🤝 How to Contribute
 
 Step into the ring! We welcome contributors of all levels.
+
 	1.	🧠 Browse issues and find a task that interests you
 	2.	🍴 Fork the repo, clone it locally, and create your feature branch
 	3.	🧪 Code, test, and commit
 	4.	🥊 Submit a Pull Request with a clear explanation
 
 Contribution Areas
+
 	•	📱 Frontend (HTML/CSS/JS responsiveness, UX enhancements)
 	•	🐍 Backend (Flask routes, database integration, performance)
 	•	🌐 Localization (Translate site content)
@@ -47,6 +50,7 @@ Check our contribution guide for more.
 ----
 
 🌐 Community & Resources
+
 	•	💻 [Official Website](boxinghub.org)
 	•	📚 Docs: Coming soon
 	•	🧠 AI boxing agents? 👀 Stay tuned
@@ -54,6 +58,7 @@ Check our contribution guide for more.
 ----
 
 🍿 Fun Facts
+
 	•	Our favicon changes color depending on time of day 🌓
 	•	90% of the team prefers their protein shakes post-sparring
 	•	We believe boxers make great developers: timing, rhythm, and resilience 🥋💻
