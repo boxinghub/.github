@@ -5,7 +5,7 @@
 Welcome to BoxingHub – your open-source corner for all things boxing. We’re building tech-driven educational tools to spread the love of the sweet science around the world.
 
 
-⸻
+----
 
 🌟 Mission
 
@@ -15,7 +15,7 @@ BoxingHub exists to:
 	•	🌍 Connect aspiring boxers with real-world clubs and communities
 	•	🧑‍💻 Provide open-source platforms to empower the combat sports community
 
-⸻
+----
 
 🛠️ Projects
 
@@ -26,7 +26,7 @@ UI Toolkit	Custom CSS/JS templates with scroll effects, dynamic navbars, and dar
 
 ➡️ View all projects: https://github.com/boxinghub
 
-⸻
+----
 
 🤝 How to Contribute
 
@@ -44,21 +44,21 @@ Contribution Areas
 
 Check our contribution guide for more.
 
-⸻
+----
 
 🌐 Community & Resources
 	•	💻 [Official Website](boxinghub.org)
 	•	📚 Docs: Coming soon
 	•	🧠 AI boxing agents? 👀 Stay tuned
 
-⸻
+----
 
 🍿 Fun Facts
 	•	Our favicon changes color depending on time of day 🌓
 	•	90% of the team prefers their protein shakes post-sparring
 	•	We believe boxers make great developers: timing, rhythm, and resilience 🥋💻
 
-⸻
+----
 
 ⚖️ License
 
@@ -66,6 +66,6 @@ This organization’s work is licensed under the
 Creative Commons Attribution 4.0 International License
 
 
-⸻
+----
 
 Made with 🧠 and 🥊 by [Hongbo Wei](https://github.com/hongbo-wei) and the BoxingHub community.
