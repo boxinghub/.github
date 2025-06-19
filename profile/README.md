@@ -16,9 +16,7 @@
 
 #### Description: **_BoxingHub_ is dedicated to spreading boxing knowledge and developing boxing culture.**
 
-#### Author: Hongbo Wei
-
-![BoxingHub](https://github.com/boxinghub/boxinghub/blob/main/static/images/preview.png?raw=true "BoxingHub")
+#### Author: [Hongbo Wei](https://github.com/hongbo-wei)
 
 - It is a web application based on the Flask framework of Python, HTML, CSS, JavaScript and SQLite.
 - The design is responsive, and it adapts to all kinds of devices, you can view it on a laptop or a phone.
