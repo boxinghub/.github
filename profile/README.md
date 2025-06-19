@@ -1,79 +1,71 @@
-<!--
+🥊 BoxingHub
 
-**Here are some ideas to get you started:**
+“It’s not just about throwing punches — it’s about empowering minds, bodies, and communities.”
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
-# BoxingHub
+Welcome to BoxingHub – your open-source corner for all things boxing. We’re building tech-driven educational tools to spread the love of the sweet science around the world.
 
-<!--[![BoxingHub on Discord](https://dcbadge.vercel.app/api/server/mqCVcUAyN9)](https://discord.gg/mqCVcUAyN9)-->
 
-## Website Address: https://boxinghub.org
+⸻
 
-#### Description: **_BoxingHub_ is dedicated to spreading boxing knowledge and developing boxing culture.**
+🌟 Mission
 
-#### Author: [Hongbo Wei](https://github.com/hongbo-wei)
+BoxingHub exists to:
+	•	🧠 Educate the public on boxing techniques, theory, and history
+	•	💪 Inspire healthy, disciplined lifestyles through martial arts
+	•	🌍 Connect aspiring boxers with real-world clubs and communities
+	•	🧑‍💻 Provide open-source platforms to empower the combat sports community
 
-- It is a web application based on the Flask framework of Python, HTML, CSS, JavaScript and SQLite.
-- The design is responsive, and it adapts to all kinds of devices, you can view it on a laptop or a phone.
-- This project is an educational website that helps users to learn how to box.
-- Users can learn boxing knowledge here, including techniques, theories, rules, and gears.
-- It also provides information on top boxing clubs, such as address and contact.
-- At the end of each page, the contact information of the developer of the site is displayed.
+⸻
 
----
+🛠️ Projects
 
-#### Explanation of what each folder contains and each file does:
+Project Name	Description
+BoxingHub Web App	A responsive Flask web app teaching boxing fundamentals and showcasing clubs
+boxinghub.db	Lightweight SQLite DB tracking user interactions (likes, favorites, etc.)
+UI Toolkit	Custom CSS/JS templates with scroll effects, dynamic navbars, and dark mode
 
-##### 1. Folder "env": a virtual environment containing a special edition of packages that support the application to run.
+➡️ View all projects: https://github.com/boxinghub
 
-##### 2. Folder "static":
+⸻
 
-- bootstrap: control the aesthetics of the web application.
-- css: control the aesthetics of the web application, for example, colour, size, and position. It also makes certain elements more responsive.
-- fonts: control the fonts of the web application.
-- images: images resources used by this application. Such as logos, backgrounds, and images for the content of different pages.
-- js: control how the view effects how a page is loaded, for example, 1. When a user scrolls down, the navigation bar shrinks to provide a better view and convenience to navigate to other pages. 2. When a user scrolls a page, and when the "likes" or "loves" button is clicked. 3. The background of the favicon will be black from 6 am to 6 pm, it will be white during other time.
+🤝 How to Contribute
 
-##### 3. Folder "templates": HTML files that determine the structure of the website.
+Step into the ring! We welcome contributors of all levels.
+	1.	🧠 Browse issues and find a task that interests you
+	2.	🍴 Fork the repo, clone it locally, and create your feature branch
+	3.	🧪 Code, test, and commit
+	4.	🥊 Submit a Pull Request with a clear explanation
 
-- base.html: the base layout of each page, so other pages can extend from this one.
-- clubs.html: the Club page displays the information of boxing clubs.
-- gears.html: the Gear page talks about boxing gears, such as gloves, handwraps, headgear, mouthguards, no-foul protectors.
-- index.html: the index page introduces what BoxingHub is, and what it is about.
-- recovery.html: the Recovery page is about how an athlete should eat, stretch, and rest so that he/she can avoid and prevent injuries, and recover well from high-intense training.
-- rules.html: the Rules page talks about the basic rules of professional boxing, such as weight class, size of gloves, rounds, and titles.
-- techniques.html: the Techniques page talks about the fundamental techniques of boxing.
+Contribution Areas
+	•	📱 Frontend (HTML/CSS/JS responsiveness, UX enhancements)
+	•	🐍 Backend (Flask routes, database integration, performance)
+	•	🌐 Localization (Translate site content)
+	•	📖 Educational content (Write about techniques, history, gear)
 
-##### 4. File "app.py": the flask configuration file. It connects to the database boxinghub.db, auto-reloads the content of the page if anything changes, provides a different route for users to browse, and updates the database according to the interaction between users and the web app.
+Check our contribution guide for more.
 
-##### 5. File "boxinghub.db: an SQLite3 database that records every "likes" and "loves" given by users.
+⸻
 
----
+🌐 Community & Resources
+	•	💻 [Official Website](boxinghub.org)
+	•	📚 Docs: Coming soon
+	•	🧠 AI boxing agents? 👀 Stay tuned
 
-#### Follow below two steps below to run the web app:
+⸻
 
-    flask run
+🍿 Fun Facts
+	•	Our favicon changes color depending on time of day 🌓
+	•	90% of the team prefers their protein shakes post-sparring
+	•	We believe boxers make great developers: timing, rhythm, and resilience 🥋💻
 
----
+⸻
 
-😁 **Thanks for your attention!**
+⚖️ License
 
----
+This organization’s work is licensed under the
+Creative Commons Attribution 4.0 International License
 
-Copyright (c) [2023-2049] [Hongbo Wei](https://github.com/hongbo-weia)
 
-Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
+⸻
 
-This work is licensed under a
-[Creative Commons Attribution 4.0 International License][cc-by].
-
-[![CC BY 4.0][cc-by-image]][cc-by]
-
-[cc-by]: http://creativecommons.org/licenses/by/4.0/
-[cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
-[cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
+Made with 🧠 and 🥊 by [Hongbo Wei](https://github.com/hongbo-wei) and the BoxingHub community.
